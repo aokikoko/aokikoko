@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aokikoko
+- 👋 Hi, I’m @aokikoko👋
 - 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 - 🌱 当 qq 空间玩
 
