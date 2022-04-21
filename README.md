@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @aokikoko👋
+- 👋 Hi, I’m @aokikoko👋  <a href="https://phero.live/" target="_blank">我的自留地</a>
 <!-- - 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋 -->
 ![aokikoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokikoko&theme=nightowl&show_icons=true)
-
-<a href="https://phero.live/" target="_blank">我的自留地</a>
 
 <!---
 aokikoko/aokikoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
